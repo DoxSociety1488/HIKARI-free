@@ -1,0 +1,6 @@
+regex
+openai
+shodan
+requests
+colorama
+phonenumbers
